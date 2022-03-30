@@ -20,3 +20,7 @@ h3 {
        background-color: lightblue;
        padding: 10px;
 }
+
+.home {
+       float: right;
+}
